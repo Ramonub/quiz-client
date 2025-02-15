@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0b0a3415aad49b6e9bf965ff578614f9",
-"assets/AssetManifest.bin.json": "a1fee2517bf598633e2f67fcf3e26c94",
-"assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
+const RESOURCES = {"assets/AssetManifest.bin": "4bb2d72aff6c08d18293a61a80f6821c",
+"assets/AssetManifest.bin.json": "856c09d28c14a2dbe28c9d6c6be3af5d",
+"assets/AssetManifest.json": "052da70fd40d9ece64632d0aeba49f8f",
+"assets/assets/logo.png": "51b216e3f04fadcb4e4ff26db6814faf",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "693dddfd9bd67cc876303b48b5f3740b",
+"assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/NOTICES": "f0845e19f30d959b3d123e5febe20ed8",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "6cfe36b4647fbfa15683e09e7dd366bc",
@@ -24,14 +25,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "0b0a3415aad49b6e9bf965ff578614f9
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "0a4481882ec44c47ab32940ece101e88",
+"flutter_bootstrap.js": "53f9db387353e3c077a9fe2d8d71cd98",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "ad4d3c10bd20f4a2219434ced23d1656",
 "/": "ad4d3c10bd20f4a2219434ced23d1656",
-"main.dart.js": "75018991244b196465636b1c9dadc9bf",
+"main.dart.js": "45e47cb20cf94d7be1aa7cf08d2a11d3",
 "manifest.json": "fe7eb07bf1b9dfec63546a4a4c644919",
 "version.json": "1f3f518bc31c327f9fc4972ade9c4faf"};
 // The application shell files that are downloaded before a service worker can
